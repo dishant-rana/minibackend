@@ -1,34 +1,12 @@
 {
-  "countries": [
+  "employees": [
     {
-      "country": "China",
-      "city": "Hong Kong",
-      "population": "125155",
-      "id": 4
-    },
-    {
-      "city": "New",
-      "population": "12414",
-      "country": "Myanmar",
-      "id": 5
-    },
-    {
-      "city": "New",
-      "population": "1235",
-      "country": "India",
-      "id": 7
-    },
-    {
-      "city": "Mumbai",
-      "population": "842222",
-      "country": "India",
-      "id": 8
-    },
-    {
-      "country": "China",
-      "city": "Bejing",
-      "population": "681315",
-      "id": 9
+      "name": "Jhon Does",
+      "age": "22",
+      "gender": "Male",
+      "mobile": "7018446607",
+      "salary": "3000000",
+      "id": 1
     }
   ]
 }
