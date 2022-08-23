@@ -1,11 +1,9 @@
 {
-  "employees": [
+  "users": [
     {
-      "name": "Jhon Does",
-      "age": "22",
-      "gender": "Male",
-      "mobile": "7018446607",
-      "salary": "3000000",
+      "name": "Jhon Doe",
+      "email": "jhon@mail.com",
+      "password": "1234",
       "id": 1
     }
   ]
